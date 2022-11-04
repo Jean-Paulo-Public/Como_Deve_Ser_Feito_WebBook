@@ -15,6 +15,8 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Batalha da moralidade e da virtude](Capitulos/Secoes/Fundamentos.md) |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |  |
                 
 ----
 
