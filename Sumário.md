@@ -11,7 +11,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | :-------------------------------------- |:---------------:| -----:|
 | [Prefácio](Capitulos/Prefácio.md) | [Agradecimentos](Capitulos/proposito.md)  |  |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) |  |
-| [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Propósito desse livro](Capitulos/proposito.md) |
+| [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Propósito](Capitulos/proposito.md) |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
                 
 ----
