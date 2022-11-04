@@ -12,7 +12,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 3 -  [Agradecimentos](Capitulos/agradecimentos.md)  
 4 -  [Introdução](Capitulos/introducao.md)  
 5 -  [Fundamentos](Capitulos/Secoes/Fundamentos.md)
-6 -  [Como tomar o poder (vias democráticas)](Capitulos/Secoes/Fundamentos.md)
+6 -  [Como tomar o poder (vias democráticas)](Capitulos/Secoes/TomandoOPoder.md)
 5 -  [Por que ser libertário](Capitulos/porque.md)  
 6 -  [O que é ser libertário](Capitulos/oquee.md)  
 7 -  [Como se tornar um libertário](Capitulos/Como.md)  
