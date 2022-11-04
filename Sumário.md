@@ -21,6 +21,8 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
+| [Tomada do poder](Capitulos/Prefácio.md) | | |
+| [Tomada do poder](Capitulos/Prefácio.md) | [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
@@ -66,8 +68,6 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 31 -  [Como se armar mesmo sendo proibido?](Capitulos/rodando_aplicacoes_gui.md)  
 32 -  [Legalização do aborto, quando deve ser permitido?](Capitulos/aborto.md)  
 33 -  [Marketing, como espalhar o libertarianismo?](Capitulos/Marketing.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-1 - [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md)  
 34 -  [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md)  
 35 -  [Cidades Privadas! Como funciona e como construir uma?](Capitulos/CidadesPrivadas.md)  
 36 -  [Produtividade e desenvolvimento pessoal](Capitulos/melhorar.md)  
