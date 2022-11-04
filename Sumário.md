@@ -29,8 +29,8 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação das estatais ao fundo com PPI](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Previdência complementar individual (capitalização)](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Aumento do FGTS e flexibilização](Capitulos/Prefácio.md) | |
-| [Plano de ação](Capitulos/Prefácio.md) | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) | |
-| [Plano de ação](Capitulos/Prefácio.md) | [BitCoin como moeda nacional](Capitulos/Prefácio.md) | |
+| [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
+| [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 
 ----
 
