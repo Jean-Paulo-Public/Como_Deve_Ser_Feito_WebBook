@@ -24,6 +24,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Previdência complementar individual (capitalização)](Capitulos/Prefácio.md) | |
+| [Plano de ação](Capitulos/Prefácio.md) | [Aumento do FGTS e flexibilização](Capitulos/Prefácio.md) | |
 
 ----
 
