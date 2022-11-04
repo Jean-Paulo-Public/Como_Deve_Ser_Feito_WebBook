@@ -9,7 +9,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 
 | Tópico                                  | SubTópico       | Capitulo |
 | :-------------------------------------- |:---------------:| -----:|
-| [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | -- |
+| [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) |  |
                 
 ----
 
