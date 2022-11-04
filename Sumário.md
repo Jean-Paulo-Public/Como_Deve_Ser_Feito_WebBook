@@ -7,7 +7,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 > Coautor: **[Robert Gonçalves Batista](https://github.com/RobertDocker)**
 ## Sumário
 
-| Tópico                                  | SubTópico       | Capitulo |
+| Tópico                                  | Sub Tópico       | Capitulo |
 | :-------------------------------------- |:---------------:| -----:|
 | [Prefácio](Capitulos/Prefácio.md) | [Agradecimentos](Capitulos/proposito.md)  |  |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) |  |
