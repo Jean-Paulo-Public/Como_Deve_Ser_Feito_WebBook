@@ -22,6 +22,9 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
 | [Tomada do poder](Capitulos/Prefácio.md) | | |
+| [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
+| [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Gerenciamento de conteúdo](Capitulos/MarketingDeGuerrilha.md) |
+| [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Bots e IA's](Capitulos/MarketingDeGuerrilha.md) |
 | [Tomada do poder](Capitulos/Prefácio.md) | [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
