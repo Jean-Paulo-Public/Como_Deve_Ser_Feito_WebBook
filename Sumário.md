@@ -13,10 +13,10 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) |  |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Propósito](Capitulos/proposito.md) |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
                 
 ----
 
-5 -  [Fundamentos](Capitulos/Secoes/Fundamentos.md)
 6 -  [Como tomar o poder (vias democráticas)](Capitulos/Secoes/TomandoOPoder.md)
 5 -  [Por que ser libertário](Capitulos/porque.md)  
 6 -  [O que é ser libertário](Capitulos/oquee.md)  
