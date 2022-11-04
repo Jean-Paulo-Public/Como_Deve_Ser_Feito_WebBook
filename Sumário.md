@@ -9,9 +9,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 
 | Tópico                                  | SubTópico       | Capitulo |
 | :-------------------------------------- |:---------------:| -----:|
-| [Organização](Capitulos/organizacao.md) | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| [Organização](Capitulos/organizacao.md) | -- | -- |
                 
 ----
 
