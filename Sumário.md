@@ -23,6 +23,8 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) | |
+| [Plano de ação](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) | [Alienação dos ativos da união com PPI](Capitulos/Prefácio.md) |
+| [Plano de ação](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) | [Alienação das estatais com PPI](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Previdência complementar individual (capitalização)](Capitulos/Prefácio.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Aumento do FGTS e flexibilização](Capitulos/Prefácio.md) | |
 
