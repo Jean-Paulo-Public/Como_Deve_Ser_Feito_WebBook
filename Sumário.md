@@ -6,37 +6,15 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 > Coautor: **[Jetro Costa](https://github.com/Jetro-Costa)**  
 > Coautor: **[Robert Gonçalves Batista](https://github.com/RobertDocker)**
 ## Sumário
-                    
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
-
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+| Tópico                                  | SubTópico       | Capitulo |
+| :-------------------------------------- |:---------------:| -----:|
+| [Organização](Capitulos/organizacao.md) | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
                 
 ----
 
-1 -  [Organização](Capitulos/organizacao.md)  
 2 -  [Propósito desse livro](Capitulos/proposito.md)  
 3 -  [Agradecimentos](Capitulos/agradecimentos.md)  
 4 -  [Introdução](Capitulos/introducao.md)  
