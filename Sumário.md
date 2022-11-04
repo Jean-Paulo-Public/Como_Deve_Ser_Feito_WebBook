@@ -33,6 +33,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Obras de infraestrutura](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
+| [Plano de ação](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 
 ----
 
