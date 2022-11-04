@@ -10,10 +10,10 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | Tópico                                  | SubTópico       | Capitulo |
 | :-------------------------------------- |:---------------:| -----:|
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) |  |
+| [Prefácio](Capitulos/Prefácio.md) | [Propósito desse livro](Capitulos/proposito.md)  |  |
                 
 ----
-
-2 -  [Propósito desse livro](Capitulos/proposito.md)  
+ 
 3 -  [Agradecimentos](Capitulos/agradecimentos.md)  
 4 -  [Introdução](Capitulos/introducao.md)  
 5 -  [Fundamentos](Capitulos/Secoes/Fundamentos.md)
