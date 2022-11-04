@@ -77,4 +77,3 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 40 -  [Dicas avulsas](Capitulos/dicas.md)  
 41 -  [Apêndice](Capitulos/apendice.md)  
 41 -  [Links e bibliografia](Capitulos/Links.md)  
-7 -  [Plano brasil](Capitulos/Secoes/Fundamentos.md)
