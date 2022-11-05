@@ -15,11 +15,13 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
-| [Tomada do poder](Capitulos/Prefácio.md) | | |
-| [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
-| [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Gerenciamento de conteúdo](Capitulos/MarketingDeGuerrilha.md) |
-| [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Bots e IA's](Capitulos/MarketingDeGuerrilha.md) |
-| [Tomada do poder](Capitulos/Prefácio.md) | [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md) | |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | | |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Gerenciamento de conteúdo](Capitulos/MarketingDeGuerrilha.md) |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Bots e IA's](Capitulos/MarketingDeGuerrilha.md) |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md) | |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | |
+| [Eleições](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
