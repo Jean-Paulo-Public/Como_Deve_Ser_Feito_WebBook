@@ -56,6 +56,8 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Habilidade em debater](Capitulos/MarketingDeGuerrilha.md) |
 | [Eleições](Capitulos/Prefácio.md) | | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) |
