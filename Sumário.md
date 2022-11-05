@@ -36,8 +36,8 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | |  |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) |  |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) | [Batalha da moralidade e da virtude](Capitulos/Secoes/Fundamentos.md) |
-| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Os piores chegam ao poder, os piores prosperam](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) |  |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Os piores chegam ao poder, os piores prosperam](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
