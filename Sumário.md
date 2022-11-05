@@ -15,13 +15,6 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) |  |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) | [Batalha da moralidade e da virtude](Capitulos/Secoes/Fundamentos.md) |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Os piores chegam ao poder, os piores prosperam](Capitulos/Secoes/Fundamentos.md) |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) |  |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
-| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
 | [Tomada do poder](Capitulos/Prefácio.md) | | |
 | [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
 | [Tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Gerenciamento de conteúdo](Capitulos/MarketingDeGuerrilha.md) |
@@ -40,6 +33,14 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | |  |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) |  |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) | [Batalha da moralidade e da virtude](Capitulos/Secoes/Fundamentos.md) |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Os piores chegam ao poder, os piores prosperam](Capitulos/Secoes/Fundamentos.md) |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) |  |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
 
 ----
 
