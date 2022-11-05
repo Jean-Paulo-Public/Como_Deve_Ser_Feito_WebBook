@@ -1,7 +1,6 @@
 # Como deve ser feito
 
-Este livro serve para dar uma base para novos entrantes no ancapismo.
-Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e empresariais de como implantar o libertarianismo em algum lugar do mundo.
+Este livro colaborativo visa fornecer conhecimento de como os liberais / libertários podem avançar suas pautas no Brasil.
 > Autor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**  
 ## Sumário
 
