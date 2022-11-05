@@ -25,16 +25,16 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação dos ativos da união ao fundo com PPI](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação das estatais ao fundo com PPI](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Previdência complementar individual (capitalização)](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Aumento do FGTS e flexibilização](Capitulos/Prefácio.md) | |
-| [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Trocando divida interna por externa](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Obras de infraestrutura](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação dos ativos da união ao fundo com PPI](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação das estatais ao fundo com PPI](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Previdência complementar individual (capitalização)](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Aumento do FGTS e flexibilização](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Trocando divida interna por externa](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Obras de infraestrutura](Capitulos/Prefácio.md) |
 | [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | |  |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) |  |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) | [Batalha da moralidade e da virtude](Capitulos/Secoes/Fundamentos.md) |
