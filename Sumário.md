@@ -23,9 +23,9 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Oratória](Capitulos/MarketingDeGuerrilha.md) |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Habilidade em debater](Capitulos/MarketingDeGuerrilha.md) |
 | [Eleições](Capitulos/Prefácio.md) | | |
-| [Plano de ação](Capitulos/Prefácio.md) | | |
-| [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
-| [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação dos ativos da união ao fundo com PPI](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Alienação das estatais ao fundo com PPI](Capitulos/Prefácio.md) |
