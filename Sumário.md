@@ -43,6 +43,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Controles de preços](Capitulos/TeoriaMonetaria.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Defesa da liberdade](Capitulos/porque.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Externalidade e o meio ambiente](Capitulos/porque.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | | |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
