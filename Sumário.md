@@ -12,6 +12,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Propósito](Capitulos/proposito.md) |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | | |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
