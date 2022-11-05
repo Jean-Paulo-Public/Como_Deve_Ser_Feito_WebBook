@@ -15,6 +15,7 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [O que nos é ensinado por nossos pais e professores](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre o viés de confirmação](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre a prova social](Capitulos/introducao.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre o racional versus o emocional](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Teoria da moeda](Capitulos/TeoriaMonetaria.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Acumulo de capital](Capitulos/TeoriaMonetaria.md) |
