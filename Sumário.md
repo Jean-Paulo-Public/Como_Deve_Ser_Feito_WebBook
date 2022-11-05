@@ -13,6 +13,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Nossos pais e professores](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre o viés de confirmação](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre a prova social](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  |  |
