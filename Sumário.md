@@ -78,17 +78,13 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
-
+| [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Links e bibliografia](Capitulos/Links.md) | |
+| [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | |
+| [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Como espalhar a ideologia liberal?](Capitulos/Expalhando.md) | 
+| [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Gerenciando grupos de estudo](Capitulos/GruposDeEstudo.md) |
+| [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Como construir estradas?](Capitulos/construir.md) |
 ----
-
-40 -  [Dicas avulsas](Capitulos/dicas.md)  
-41 -  [Apêndice](Capitulos/apendice.md)  
-41 -  [Links e bibliografia](Capitulos/Links.md)  
-
-
-14 -  [Espalhando o libertárianismo em múltiplos ambientes](Capitulos/Expalhando.md)  
-15 -  [Gerenciando grupos de estudo](Capitulos/GruposDeEstudo.md)  
-22 -  [Como construir estradas?](Capitulos/construir.md)  
+ 
 29 -  [Administrando grupos de ativismo](Capitulos/admin.md)  
 30 -  [Como fazer memes que defendam a causa da liberdade?](Capitulos/Memes.md)  
 31 -  [Como se armar mesmo sendo proibido?](Capitulos/rodando_aplicacoes_gui.md)  
