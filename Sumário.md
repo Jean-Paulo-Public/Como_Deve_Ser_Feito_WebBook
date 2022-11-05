@@ -12,6 +12,34 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Propósito](Capitulos/proposito.md) |
 | [Prefácio](Capitulos/Prefácio.md) | [Organização](Capitulos/organizacao.md) | [Introdução](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) |  |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre o viés de confirmação](Capitulos/introducao.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre a prova social](Capitulos/introducao.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Teoria da moeda](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Acumulo de capital](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Criptoativos](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Concorrencia](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Arbitragem](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Contratos](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Restituição e Jurisprudencia](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Guerras](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Independencia](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Segurança privada](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Vinculos trabalhistas](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Mídia e imprensa](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Os mais pobres](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Igualdade](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Produtividade](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Educação financeira](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Meio Ambiente](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Ativismo economico](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Desenvolvimento](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Deflação](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Condomínios e Cidades privadas](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [História](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Monopólios](Capitulos/TeoriaMonetaria.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Controles de preços](Capitulos/TeoriaMonetaria.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Defesa da liberdade](Capitulos/porque.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
@@ -52,3 +80,14 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 40 -  [Dicas avulsas](Capitulos/dicas.md)  
 41 -  [Apêndice](Capitulos/apendice.md)  
 41 -  [Links e bibliografia](Capitulos/Links.md)  
+
+
+14 -  [Espalhando o libertárianismo em múltiplos ambientes](Capitulos/Expalhando.md)  
+15 -  [Gerenciando grupos de estudo](Capitulos/GruposDeEstudo.md)  
+22 -  [Como construir estradas?](Capitulos/construir.md)  
+29 -  [Administrando grupos de ativismo](Capitulos/admin.md)  
+30 -  [Como fazer memes que defendam a causa da liberdade?](Capitulos/Memes.md)  
+31 -  [Como se armar mesmo sendo proibido?](Capitulos/rodando_aplicacoes_gui.md)  
+32 -  [Legalização do aborto, quando deve ser permitido?](Capitulos/aborto.md)  
+34 -  [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md)  
+35 -  [Cidades Privadas! Como funciona e como construir uma?](Capitulos/CidadesPrivadas.md)  
