@@ -19,6 +19,9 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | [Bots e IA's](Capitulos/MarketingDeGuerrilha.md) |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md) | |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Carisma](Capitulos/MarketingDeGuerrilha.md) |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Oratória](Capitulos/MarketingDeGuerrilha.md) |
+| [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Habilidade em debater](Capitulos/MarketingDeGuerrilha.md) |
 | [Eleições](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | | |
 | [Plano de ação](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
