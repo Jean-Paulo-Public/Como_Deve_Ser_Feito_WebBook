@@ -73,6 +73,8 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Uso das forças armadas](Capitulos/Prefácio.md)  | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Cidades privadas](Capitulos/Prefácio.md)  | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Cidades privadas](Capitulos/Prefácio.md)  | [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | |  |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) |  |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente corretas](Capitulos/Secoes/Fundamentos.md) | [Batalha da moralidade e da virtude](Capitulos/Secoes/Fundamentos.md) |
@@ -91,6 +93,4 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Agorismo (Armamento, elisão, sonegação)](Capitulos/construir.md) |
 
 ----
- 
-34 -  [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md)  
-35 -  [Cidades Privadas! Como funciona e como construir uma?](Capitulos/CidadesPrivadas.md)  
+
