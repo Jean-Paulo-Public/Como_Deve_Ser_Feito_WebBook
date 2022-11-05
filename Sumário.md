@@ -3,8 +3,6 @@
 Este livro serve para dar uma base para novos entrantes no ancapismo.
 Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e empresariais de como implantar o libertarianismo em algum lugar do mundo.
 > Autor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**  
-> Coautor: **[Jetro Costa](https://github.com/Jetro-Costa)**  
-> Coautor: **[Robert Gonçalves Batista](https://github.com/RobertDocker)**
 ## Sumário
 
 | Tópico                                  | Sub Tópico       | Capitulo |
@@ -32,7 +30,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Aumento do FGTS e flexibilização](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Trocando divida interna por externa](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Obras de infraestrutura](Capitulos/Prefácio.md) |
-| [Plano de ação](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | |  |
