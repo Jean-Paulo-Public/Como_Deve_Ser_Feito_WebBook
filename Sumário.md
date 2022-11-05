@@ -44,6 +44,8 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) |  |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Defesa da liberdade](Capitulos/porque.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Externalidade e o meio ambiente](Capitulos/porque.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Aborto](Capitulos/porque.md) |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ética libertária / anarcocapitalismo](Capitulos/Secoes/Fundamentos.md) | [Drogas](Capitulos/porque.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Guerra cultural](Capitulos/Secoes/Fundamentos.md) |  |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | | |
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Redes sociais](Capitulos/MarketingDeGuerrilha.md) | |
