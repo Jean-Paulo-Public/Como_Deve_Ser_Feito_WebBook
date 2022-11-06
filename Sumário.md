@@ -91,6 +91,7 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Administrando grupos de ativismo](Capitulos/construir.md) |
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Memes](Capitulos/construir.md) |
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Agorismo (Armamento, elisão, sonegação)](Capitulos/construir.md) |
+| [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Teoria das bandeiras](Capitulos/construir.md) |
 
 ----
 
