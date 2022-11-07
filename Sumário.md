@@ -74,6 +74,7 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ambientalismo](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ambientalismo](Capitulos/Prefácio.md) | [Filtro de carbono](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ambientalismo](Capitulos/Prefácio.md) | [Energias renováveis](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Uso das forças armadas](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Cidades privadas](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Cidades privadas](Capitulos/Prefácio.md)  | [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md) |
