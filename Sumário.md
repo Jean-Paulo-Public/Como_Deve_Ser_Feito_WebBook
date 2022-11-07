@@ -76,6 +76,8 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Investimento em pesquisa](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Investimento em pesquisa](Capitulos/Prefácio.md) | [Base lunar](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ambientalismo](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ambientalismo](Capitulos/Prefácio.md) | [Filtro de carbono](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ambientalismo](Capitulos/Prefácio.md) | [Energias renováveis](Capitulos/Prefácio.md) |
