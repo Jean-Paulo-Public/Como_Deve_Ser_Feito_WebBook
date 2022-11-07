@@ -2,6 +2,9 @@
 
 Este livro colaborativo visa fornecer conhecimento de como os liberais / libertários podem avançar suas pautas no Brasil.
 > Autor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**  
+
+OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquerda (como gastos com ciência), mas eles teriam metas de crescimento do PIB (e por tanto arrecadação) para serem startados(considerando que não teria nenhum aumento do funcionalismo ou algo assim [antes de transferi-los aos estados e municipios]).
+
 ## Sumário
 
 | Tópico                                  | Sub Tópico       | Capitulo |
