@@ -61,11 +61,14 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Pavimentando a tomada do poder](Capitulos/Prefácio.md) | [Habilidades interpessoais](Capitulos/MarketingDeGuerrilha.md) | [Habilidade em debater](Capitulos/MarketingDeGuerrilha.md) |
 | [Eleições](Capitulos/Prefácio.md) | | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | | |
-| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma antiprivilégio](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Removendo imposto sobre folha de pagamento e 14º salário com 30% de contribuição ao FGTS](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Imposto único IVA (1/2)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma no BC](Capitulos/Prefácio.md) | [Meta de inflação fixa em 5⅜](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma no BC](Capitulos/Prefácio.md) | [Meta de crescimento de 5% (Investir em parceiros comerciais caso ultrapasse isso no ano)](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | [Imposto único IVA (2/3)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) |
@@ -77,6 +80,7 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Obras de infraestrutura](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Isenção de IR para quem trabalha remoto para o exterior](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md) | [Imposto único IVA (3/3)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Investimento em pesquisa](Capitulos/Prefácio.md) | |
