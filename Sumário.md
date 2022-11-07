@@ -60,6 +60,8 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 | [Plano de ação / governo](Capitulos/Prefácio.md) | | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma no BC](Capitulos/Prefácio.md) | [Meta de inflação fixa em 5⅜](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma no BC](Capitulos/Prefácio.md) | [Meta de crescimento de 5% (Investir em parceiros comerciais caso ultrapasse isso no ano)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Idade, tempo de contribuição e valor](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | [Fundo soberano de previdencia social](Capitulos/Prefácio.md) |
