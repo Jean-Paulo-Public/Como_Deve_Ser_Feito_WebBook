@@ -5,6 +5,8 @@ Este livro colaborativo visa fornecer conhecimento de como os liberais / libert�
 
 OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquerda (como gastos com ciência), mas eles teriam metas de crescimento do PIB (e por tanto arrecadação) para serem startados(considerando que não teria nenhum aumento do funcionalismo ou algo assim [antes de transferi-los aos estados e municipios]).
 
+"Desvalorizando e inflacionando o real propositalmente" => Provavelmente será necessário uma isenção temporária de impostos para os afetados
+
 ## Sumário
 
 | Tópico                                  | Sub Tópico       | Capitulo |
