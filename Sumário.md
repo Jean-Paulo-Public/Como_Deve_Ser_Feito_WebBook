@@ -79,9 +79,11 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Trocando divida interna por externa](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Obras de infraestrutura](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Isenção de IR para quem trabalha remoto para o exterior](Capitulos/Prefácio.md) |
-| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Inflacionando o real propositalmente](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Fundo soberano](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Desvalorizando e inflacionando o real propositalmente](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Venda das reservas internacionais](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md) | [Imposto único IVA (3/3)](Capitulos/Prefácio.md) |
-| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md) | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Investimento em pesquisa](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Investimento em pesquisa](Capitulos/Prefácio.md) | [Base lunar](Capitulos/Prefácio.md) |
