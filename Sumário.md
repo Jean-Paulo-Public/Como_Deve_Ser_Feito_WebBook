@@ -22,6 +22,7 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre a prova social](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Ideologia](Capitulos/proposito.md) | [Sobre o racional versus o emocional](Capitulos/introducao.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  |  |
+| [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Parábola da ilha](Capitulos/TeoriaMonetaria.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Teoria da moeda](Capitulos/TeoriaMonetaria.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Acumulo de capital](Capitulos/TeoriaMonetaria.md) |
 | [Fundamentos](Capitulos/Secoes/Fundamentos.md) | [Economia](Capitulos/proposito.md)  | [Criptoativos](Capitulos/TeoriaMonetaria.md) |
