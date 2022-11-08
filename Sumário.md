@@ -65,6 +65,8 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Eleições](Capitulos/Prefácio.md) | | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma antiprivilégio](Capitulos/Prefácio.md) | |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma antiprivilégio](Capitulos/Prefácio.md) | [Removendo incentivos fiscais](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma antiprivilégio](Capitulos/Prefácio.md) | [Obrigando megaempresas privadas a deixarem público sua saúde financeira](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Removendo imposto sobre folha de pagamento e 14º salário com 30% de contribuição ao FGTS](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Imposto único IVA (1/2)](Capitulos/Prefácio.md) |
