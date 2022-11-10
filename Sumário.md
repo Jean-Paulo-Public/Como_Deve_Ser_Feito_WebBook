@@ -109,7 +109,7 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Os piores chegam ao poder, os piores prosperam](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação cavalo de tróia](Capitulos/Secoes/Fundamentos.md) |
 | [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação boneco de ventríloquo](Capitulos/Secoes/Fundamentos.md) |
-| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação compra de votos](Capitulos/Secoes/Fundamentos.md) |
+| [Governabilidade](Capitulos/Secoes/Fundamentos.md) | [Estratégias politicamente incorretas](Capitulos/Secoes/Fundamentos.md) | [Operação "compra de votos" (emendas especiais)](Capitulos/Secoes/Fundamentos.md) |
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Links e bibliografia](Capitulos/Links.md) | |
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | |
 | [Apêndice](Capitulos/Secoes/Fundamentos.md) | [Dicas avulsas](Capitulos/dicas.md) | [Como espalhar a ideologia liberal?](Capitulos/Expalhando.md) | 
