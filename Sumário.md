@@ -69,11 +69,11 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma antiprivilégio](Capitulos/Prefácio.md) | [Obrigando megaempresas privadas a deixarem público sua saúde financeira](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Removendo imposto sobre folha de pagamento e 14º salário com 30% de contribuição ao FGTS](Capitulos/Prefácio.md) |
-| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Imposto único IVA (1/2)](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma tributária](Capitulos/Prefácio.md) | [Imposto único sobre consumo (alíquota progressiva, modelo declaratório) (1/3)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma no BC](Capitulos/Prefácio.md) | [Meta de inflação fixa em 5⅜](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma no BC](Capitulos/Prefácio.md) | [Meta de crescimento de 5% (Investir em parceiros comerciais caso ultrapasse isso no ano)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | |
-| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | [Imposto único IVA (2/3)](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | [Imposto único sobre consumo (alíquota progressiva, modelo declaratório) (2/3))](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | [Cidade só é cidade se tem 100 mil habitantes](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma administrativa](Capitulos/Prefácio.md) | [Incentivo aos estados que não possuem dívida e que possuem fundo soberano](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Reforma da previdencia definitiva](Capitulos/Prefácio.md) | |
@@ -90,7 +90,7 @@ OBS: Os gastos propostos nesse livro seriam para ter apoio do centro e da esquer
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Desvalorizando e inflacionando o real propositalmente](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Venda das reservas internacionais](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Fundo soberano (2/3)](Capitulos/Prefácio.md) |
-| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md) | [Imposto único IVA (3/3)](Capitulos/Prefácio.md) |
+| [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md) | [Imposto único sobre consumo (alíquota progressiva, modelo declaratório) (3/3)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md) | [BitCoin como moeda nacional](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Ajuste fiscal e monetário](Capitulos/Prefácio.md)  | [Fundo soberano (3/3)](Capitulos/Prefácio.md) |
 | [Plano de ação / governo](Capitulos/Prefácio.md) | [Localismo e Federalismo](Capitulos/Prefácio.md)  | |
